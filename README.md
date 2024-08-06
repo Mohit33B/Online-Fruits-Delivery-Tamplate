@@ -1,2 +1,2 @@
-# Online-Fruits-Delivery-Tamplate
-My Online Fruits Delivery Complete Responsive Web Site Template
+# Fashion Website Template
+My Fashion Website Template Complete Responsive Web Site Template
